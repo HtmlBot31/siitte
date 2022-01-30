@@ -1,1 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color:#9FEE00;
+    
 
+}
+h1 {
+    text-align:center;
+}
+
+.boss{
+    text-align: center;
+}
+
+header {
+    background-color:#008500;
+    padding: 10px;
+}
+
+footer {
+    background-color:#008500 ;
+   padding: 5px;
+}
